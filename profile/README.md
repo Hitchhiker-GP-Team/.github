@@ -37,16 +37,6 @@ Hitchhiker is a social media platform designed for outdoor enthusiasts, offering
 - Hosted server-side components on Google Cloud for scalable and reliable services.
 - Created a vibrant community for outdoor enthusiasts with a rewarding scoring system for user engagement.
 
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK
-- Node.js
-- Python
-- Neo4j
-- Google Cloud account
-
 ## Team
 
 - **Ahmed Kandeel** - [LinkedIn](https://www.linkedin.com/in/ahmedkandeel001)
