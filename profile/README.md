@@ -1,3 +1,5 @@
+
+
 # Hitchhiker
 
 Hitchhiker is a social media platform designed for outdoor enthusiasts, offering a vibrant space for sharing and exploring real-time adventures through multimedia content. The platform aims to foster a lively community where users can document their outdoor experiences and connect with others who share similar interests. Users are rewarded for their contributions through a scoring system that offers instant rewards for their engagement.
@@ -44,3 +46,25 @@ Hitchhiker is a social media platform designed for outdoor enthusiasts, offering
 - Python
 - Neo4j
 - Google Cloud account
+
+## Team
+
+- **Ahmed Kandeel** - [LinkedIn](https://www.linkedin.com/in/ahmedkandeel001)
+- **Ali Mohamed** - [LinkedIn](https://www.linkedin.com/in/ali-mohamed-01b925278)
+- **Ali Emad** - [LinkedIn](https://www.linkedin.com/in/alyemad)
+- **Kareem Yahya** - [LinkedIn](https://www.linkedin.com/in/kareem-yahya-1bb274233)
+- **Omar Mohamed** - [LinkedIn](https://www.linkedin.com/in/omar-mohamed-83b261211)
+- **Sameh Khaled** 
+
+
+
+## Contact
+
+For any inquiries or support, please contact us at support@hitchhiker.com.
+
+---
+
+*Developed by [Your Name] as a Graduation Project (September 2023 – July 2024)*
+```
+
+Make sure to replace the placeholders (`https://www.linkedin.com/in/yourprofile`, `https://www.linkedin.com/in/teammember1`, etc.) with the actual LinkedIn profile URLs of the team members.
