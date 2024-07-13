@@ -1,6 +1,6 @@
 
 
-# Hitchhiker
+# Hitchhiker, Social Media Platform
 
 Hitchhiker is a social media platform designed for outdoor enthusiasts, offering a vibrant space for sharing and exploring real-time adventures through multimedia content. The platform aims to foster a lively community where users can document their outdoor experiences and connect with others who share similar interests. Users are rewarded for their contributions through a scoring system that offers instant rewards for their engagement.
 
